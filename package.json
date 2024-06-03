@@ -1,0 +1,19 @@
+{
+  "name": "curconv_proj04",
+  "version": "1.0.0",
+  "description": "PIAIC Node Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniyal Shahzad",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
