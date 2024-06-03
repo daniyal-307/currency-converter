@@ -1,6 +1,6 @@
 {
   "name": "curconv_proj04",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PIAIC Node Project",
   "main": "index.js",
   "type": "module",
